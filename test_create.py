@@ -3,3 +3,4 @@ if __name__=="__main__":
     print(a)
     print("nishidashabi")
     print(1)
+    print(2)
